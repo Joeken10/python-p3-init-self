@@ -8,5 +8,5 @@ class Person:
 
 from person import Person
 
-alice = Person("Alice")
-print(alice.name)  # Output: Alice
+liz = Person("Liz")
+print(liz.name) 

@@ -12,8 +12,8 @@ from dog import Dog
 fido = Dog("Fido", "Dalmatian")
 print(fido.name) 
 print(fido.breed) 
-Husky = Dog("Husky")
-print(Husky.name) 
-print(Husky.breed) 
+husky = Dog("Husky")
+print(husky.name) 
+print(husky.breed) 
 
 
