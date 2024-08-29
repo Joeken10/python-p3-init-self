@@ -6,3 +6,14 @@ class Dog:
         self.breed = breed
         pass
 
+from dog import Dog
+
+
+fido = Dog("Fido", "Dalmatian")
+print(fido.name) 
+print(fido.breed) 
+Husky = Dog("Husky")
+print(Husky.name) 
+print(Husky.breed) 
+
+
